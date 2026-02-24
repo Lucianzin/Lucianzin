@@ -64,15 +64,9 @@ Olá, meu nome é Lucian Batista da Silva, tenho 21 anos, sou morador do estado 
 ###  📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucianzin&theme=aura_dark)" 
-  />
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucianzin&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucianzin&theme=aura_dark)
+ 
 </a>
 </p>
 </br>
