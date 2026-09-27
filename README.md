@@ -79,7 +79,7 @@ Olá, meu nome é Lucian Batista da Silva, tenho 21 anos, sou morador do estado 
 </br>
 </br>
 
-### Cada vez mais atrás de desenvolivento próprio
+### Cada vez mais atrás de desenvolvimento próprio
 <strong>"Uma pessoa que nunca cometeu um erro nunca tentou nada novo." - Albert Einstein </strong>
 
 
